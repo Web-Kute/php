@@ -47,7 +47,7 @@ $feedback = mysqli_fetch_all($result, MYSQLI_ASSOC);
         </div>
       </div>
     </nav>
-    <h1>Feedback</h1>
+    <h1>Feedback App</h1>
   </header>
   <main>
     <section>
