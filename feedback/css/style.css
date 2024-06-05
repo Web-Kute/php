@@ -9,6 +9,12 @@ form {
     width: 50%;
     margin: 0 auto;
 }
+.container{
+    margin: 0 auto;
+}
+.card {
+    margin: 0 auto;
+}
 footer{
     text-align: center;
 }
